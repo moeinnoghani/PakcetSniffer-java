@@ -1,3 +1,3 @@
 # PakcetSniffer-java
 
-A PacketSniffer with UI in java
+A PacketSniffer with GUI in java
